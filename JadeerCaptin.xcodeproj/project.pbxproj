@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		582F68432792E6B5001B39D5 /* sandal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582F68422792E6B5001B39D5 /* sandal.swift */; };
 		E7944C602792DE930028B51A /* JadeerCaptinApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7944C5F2792DE930028B51A /* JadeerCaptinApp.swift */; };
 		E7944C622792DE930028B51A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7944C612792DE930028B51A /* ContentView.swift */; };
 		E7944C642792DE950028B51A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7944C632792DE950028B51A /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		582F68422792E6B5001B39D5 /* sandal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sandal.swift; sourceTree = "<group>"; };
 		E7944C5C2792DE930028B51A /* JadeerCaptin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JadeerCaptin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7944C5F2792DE930028B51A /* JadeerCaptinApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JadeerCaptinApp.swift; sourceTree = "<group>"; };
 		E7944C612792DE930028B51A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				E7944C612792DE930028B51A /* ContentView.swift */,
 				E7944C632792DE950028B51A /* Assets.xcassets */,
 				E7944C652792DE950028B51A /* Preview Content */,
+				582F68422792E6B5001B39D5 /* sandal.swift */,
 			);
 			path = JadeerCaptin;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				E7944C622792DE930028B51A /* ContentView.swift in Sources */,
 				E7944C602792DE930028B51A /* JadeerCaptinApp.swift in Sources */,
+				582F68432792E6B5001B39D5 /* sandal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
